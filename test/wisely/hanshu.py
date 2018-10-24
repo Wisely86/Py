@@ -20,3 +20,6 @@ n2 = 1000
 
 print(hex(255))
 print(hex(1000))
+
+from dyhs import my_max
+print(my_max(1))
