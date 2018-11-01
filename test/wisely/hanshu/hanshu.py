@@ -22,4 +22,10 @@ print(hex(255))
 print(hex(1000))
 
 from dyhs import my_max
-print(my_max(1))
+print(my_max(20))
+from dyhs import nullpass
+print(nullpass())
+from dyhs import powerx
+print(powerx(5,2))
+from dyhs import listtst
+print(listtst())
